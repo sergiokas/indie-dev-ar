@@ -1,6 +1,6 @@
 # Guía Impositiva del Software Independiente Argentino
 
-## [WORK IN PROGRESS]
+## [EN PROGRESO]
 
 ## Prefacio
 
