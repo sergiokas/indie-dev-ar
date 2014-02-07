@@ -187,7 +187,7 @@ Cualquier imprenta habilitada corre riesgo de clausura si lo hace.
 
 Actualmente, no. Al ser calificadas como "servicios de exportación", están exentas, al menos por el momento.
 
-Si se está inscriptio en el régimen simplificado de la CABA, esto no afecta al monto fijo mensual, que hay que abonar aunque no haya existido facturación "nacional" durante ese período.
+Si se está inscripto en el régimen simplificado de la CABA, esto no afecta al monto fijo mensual, que hay que abonar aunque no haya existido facturación "nacional" durante ese período.
 
 Si se está inscripto en el convenio multilateral, esto no significa desentenderse de las declaraciones juradas mensuales, aunque vayan todas en cero.
 
