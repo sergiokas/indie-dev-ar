@@ -152,7 +152,7 @@ Luego de estar inscripto en el régimen del monotributo, puede uno dirigirse a u
 
 ### [2.2] Facturación a personas físicas o jurídicas dentro del territorio nacional argentino
 
-Debe utilizarse el talonario de facturas tipo `"C"`, y entregar el original (blanco) al cliente.
+Debe utilizarse el talonario de facturas tipo `"C"`, y entregar el original (blanco) al cliente. Este tipo de factura también debe utilizarse en caso de que contemos con un intermediario que gestione los pagos de forma local, por más que el cliente final se encuentre en el exterior.
 
 #### "Con IVA?"
 
@@ -160,7 +160,7 @@ Uno de los aspectos más controversiales del monotributo es que no discrimina Im
 
 Si el cliente, que generalmente no es monotributista, recibe una factura que "discrimina IVA", puede descontar esa parte del impuesto del total que debe pagar en su declaración jurada mensual. Ese **no es el caso** de una factura emitida bajo el régimen simplificado del monotributo. Esto suele generar fricción en las negociaciones cuando los montos facturados comienzan a superar cierta barrera.
 
-La única alternativa para este problema es pasarse al régimen de autónomos, donde esta guía carece de utilidad.
+La alternativa para este problema es pasarse al régimen de autónomos, donde esta guía carece de utilidad.
 
 ### [2.3] Facturación al exterior
 
@@ -168,9 +168,9 @@ Debe utilizarse el talonario de facturas tipo `"E"`.
 
 La factura "de papel" emitida en Argentina rara vez tiene utilidad para el cliente que reside en el exterior. Sin embargo, si los cobros se realizan a través de transferencia bancaria, cheque de PayPal o similar, la entidad destinataria está obligada por ley a pedir una copia de la factura en el caso de prestación de servicios, y en algunos casos, una copia del contrato correspondiente.
 
-La factura debe ser emitida por el monto total transferido (incluyendo las comisiones que retenga el banco o entidad destinataria). Los valores pueden expresarse en moneda extranjera de ser necesario.
+La factura debe ser emitida por el **monto total transferido**, incluyendo las comisiones que retenga el banco o entidad destinataria. Los valores pueden expresarse en **moneda extranjera** de ser necesario.
 
-Las facturas electrónicas (o impresas) emitidas por cualquier sistema de gestión que se utilice internamente dentro de la relación laboral **son inválidas** para habilitar una transferencia. Sólo se aceptan facturas de papel, impresas en una imprenta habilitada, aunque sólo se emitan con el objetivo de presentarla en la entidad bancaria correspondiente.
+Las facturas electrónicas (o impresas por uno mismo) emitidas por cualquier sistema de gestión que se utilice internamente dentro de la relación laboral **son inválidas** para justificar una transferencia. Sólo se aceptan facturas en papel, impresas en una imprenta habilitada dentro de la República Argentina, aunque sólo se emitan con el objetivo de presentarla en la entidad bancaria/financiera correspondiente.
 
 #### Preguntas Frecuentes
 
