@@ -90,7 +90,7 @@ En caso de tener otro trabajo en relación de dependencia, estando seguro que el
 
 `No aportante al régimen (trabajador en relación de dependencia)`
 
-Esto disminuye los pagos que deben realizarse mensualmente en el monotributo, como se detalla en los capítulos siguientes.
+Esto disminuye los pagos que deben realizarse mensualmente en el monotributo, como se detalla en los capítulos siguientes. El trabajo en relación de dependencia puede no tener nada que ver con la industria del software o la actividad declarada en AFIP, aún así esto es aplicable.
 
 ##### Mi facturación supera o va a superar el límite de la categoría más alta. ¿Qué puedo hacer?
 
@@ -166,11 +166,11 @@ La única alternativa para este problema es pasarse al régimen de autónomos, d
 
 Debe utilizarse el talonario de facturas tipo `"E"`.
 
-La factura "de papel" emitida en Argentina rara vez tiene utilidad para el cliente que reside en el exterior. Sin embargo, si los cobros se realizan a través de transferencia bancaria, cheque de PayPal o similar, la entidad destinataria está obligada por ley a pedir una copia de la factura en el caso de prestación de servicios, y en algunos casos, una copia del contrato por la prestación de los mismos.
+La factura "de papel" emitida en Argentina rara vez tiene utilidad para el cliente que reside en el exterior. Sin embargo, si los cobros se realizan a través de transferencia bancaria, cheque de PayPal o similar, la entidad destinataria está obligada por ley a pedir una copia de la factura en el caso de prestación de servicios, y en algunos casos, una copia del contrato correspondiente.
 
-La factura debe ser emitida por monto total transferido (incluyendo las comisiones que retenga el banco o entidad destinataria). Los valores pueden expresarse en moneda extranjera de ser necesario.
+La factura debe ser emitida por el monto total transferido (incluyendo las comisiones que retenga el banco o entidad destinataria). Los valores pueden expresarse en moneda extranjera de ser necesario.
 
-Las facturas electrónicas (o impresas) emitidas por cualquier sistema de gestión que se utilice internamente dentro de la relación laboral son inválidas para habilitar una transferencia. Sólo se aceptan facturas de papel, impresas en una imprenta habilitada, aunque sólo se emitan con el objetivo de presentarla en la entidad bancaria correspondiente.
+Las facturas electrónicas (o impresas) emitidas por cualquier sistema de gestión que se utilice internamente dentro de la relación laboral **son inválidas** para habilitar una transferencia. Sólo se aceptan facturas de papel, impresas en una imprenta habilitada, aunque sólo se emitan con el objetivo de presentarla en la entidad bancaria correspondiente.
 
 #### Preguntas Frecuentes
 
@@ -194,7 +194,13 @@ La factura del talonario (tanto la original, como la copia de color) **no puede 
 
 ### Pagos del Monotributo
 
-El pago **mensual** del monotributo puede realizarse por Internet, utilizando el menú "Servicos AFIP" o similar en el home banking. El monto a pagar se define automáticamente por la categoría y los detalles de adhesión o recategorización.
+El pago **mensual** del monotributo puede realizarse por Internet, utilizando el menú "Servicos AFIP" o similar en el home banking. El monto a pagar se define automáticamente por la categoría y los detalles de adhesión o recategorización, según el siguiente cuadro
+
+[http://www.afip.gob.ar/monotributo/categorias.asp](http://www.afip.gob.ar/monotributo/categorias.asp)
+
+Para todas las actividades de la industria del software, el monto es el correspondiente a la columna **"Total - Locaciones y/o prestaciones de servicios"** de cada categoría. 
+
+En caso de también contar un empleo en relación de dependencia, que es necesario incluir en el trámite de adhesión o recategorización del monotributo, sólo debe abonarse el proporcional de la columna **"Impuesto Integrado - Locaciones y/o Prestaciones de Servicios"** para cada categoría.
 
 ### Declaraciones Juradas y Pagos de Ingresos Brutos
 
@@ -212,7 +218,18 @@ El objetivo de este capítulo es **mantener las inscripciones impositivas al dí
 
 ### Recategorización del Monotributo
 
-La recategorización del monotributo es obligatoria, y sólo se realiza durante los meses de Enero, Mayo y Septiembre. Tiene como finalidad ajustar el monto del impuesto al régimen cada cuatro meses dependiendo del volumen de facturación, sin tener que informarlo constantemente.
+Tiene como finalidad ajustar el monto del impuesto al régimen cada cuatro meses dependiendo del volumen de facturación, sin tener que informarlo constantemente.
+
+Sólo se realiza durante los meses de Enero, Mayo y Septiembre, desde el [sitio de la AFIP](http://www.afip.gob.ar/genericos/guiaDeTramites/guia/documentos/PasoaPasorecategorizacion.pdf).
+
+Para actividades relacionadas con el software, el cálculo de la nueva categoría es simple: 
+
+- La suma de la facturación de los últimos 12 meses corridos. 
+- Si estamos recién inscriptos y no llegamos a 12 meses de facturación, es la suma de lo que tengamos. 
+
+El monto de la nueva categoría se abona recién al mes siguiente (Febrero, Junio y Octubre).
+
+Si bien es posible categorizarse "preventivamente" si sabemos cuánto vamos a facturar, no es necesario. Cualquier contador sugerirá anotarse en la categoría mínima que admite la ley, aunque sea necesario ocuparse de recategorizarse el próximo cuatrimestre.
 
 ### Declaración Jurada Informativa
 
