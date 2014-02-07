@@ -40,7 +40,7 @@ La normativa legal es diferente, por eso se recomienda consultarlo con un contad
 
 ### Cuidado
 
-La mayoría del software necesario para los trámites detallados posteriormente es provisto por cada ente regulador (AFIP, ARBA, AGIP, etc), es de una calidad dudosa, está lleno de incompatibilidades, y **funciona de forma completa sólo bajo Windows e Internet Explorer**.
+La mayoría del software necesario para los trámites detallados posteriormente es provisto por cada ente regulador (AFIP, ARBA, AGIP, etc), es de una calidad dudosa, está lleno de incompatibilidades, y **funciona de forma completa sólo bajo Windows de 32-bits e Internet Explorer**.
 
 ## [0] Recomendaciones
 
@@ -127,7 +127,7 @@ Se reciben [contribuciones para esta guía](CONTRIBUTE.md).
 
 ##### Yo facturo solamente al exterior del país, ¿tengo que anotarme en Ingresos Brutos de todas formas?
 
-Si. Actualmente, la normativa indica que las facturas tipo "E" son para "servicios de exportación", y están exentas de Ingresos Brutos. Pero esto no significa desentenderse de las declaraciones juradas mensuales para otras jurisdicciones, aunque vayan todas en cero.
+Si. Actualmente, la normativa indica que las facturas tipo `E` son para "servicios de exportación", y están exentas de Ingresos Brutos. Pero esto no significa desentenderse de las declaraciones juradas mensuales para otras jurisdicciones, aunque vayan todas en cero.
 
 ##### Desarrollo mi actividad en el Gran Buenos Aires, ¿puedo anotarme en el régimen simplificado?
 
@@ -151,13 +151,13 @@ El objetivo de este capítulo es **emitir facturas** por los servicios prestados
 Luego de estar inscripto en el régimen del monotributo, puede uno dirigirse a una **imprenta habilitada** y solicitar la impresión de un talonario de facturas. Para eso se debe:
 
 * Llevar una [constancia de inscripción al monotributo](https://seti.afip.gob.ar/padron-puc-constancia-internet/ConsultaConstanciaAction.do)
-* Pedir un talonario de facturas tipo `"C"`, en el caso de facturar a clientes (o intermediarios) dentro del territorio nacional.
-* Pedir un talonario de facturas tipo `"E"`, en el caso de facturar a clientes en el exterior.
+* Pedir un talonario de facturas tipo `C`, en el caso de facturar a clientes (o intermediarios) dentro del territorio nacional.
+* Pedir un talonario de facturas tipo `E`, en el caso de facturar a clientes en el exterior.
 * Indicar el comienzo de la numeración de los talonarios en cada caso. Si es la primera vez, comienzan en `000001`.
 
 ### [2.2] Facturación a personas físicas o jurídicas dentro del territorio nacional argentino
 
-Debe utilizarse el talonario de facturas tipo `"C"`, y entregar el original (blanco) al cliente. Este tipo de factura también debe utilizarse en caso de que se cuente con un intermediario que gestione los pagos de forma local, por más que el cliente final se encuentre en el exterior.
+Debe utilizarse el talonario de facturas tipo `C`, y entregar el original (blanco) al cliente. Este tipo de factura también debe utilizarse en caso de que se cuente con un intermediario que gestione los pagos de forma local, por más que el cliente final se encuentre en el exterior.
 
 #### "Con IVA?"
 
@@ -169,7 +169,7 @@ La alternativa para este problema es pasarse al régimen de autónomos, donde es
 
 ### [2.3] Facturación al exterior
 
-Debe utilizarse el talonario de facturas tipo `"E"`.
+Debe utilizarse el talonario de facturas tipo `E`.
 
 La factura "de papel" emitida en Argentina rara vez tiene utilidad para el cliente que reside en el exterior. Sin embargo, si los cobros se realizan a través de transferencia bancaria, cheque de PayPal o similar, la entidad destinataria está obligada por ley a pedir una copia de la factura en el caso de prestación de servicios, y en algunos casos, una copia del contrato correspondiente.
 
@@ -183,7 +183,7 @@ Las facturas electrónicas, o impresas por uno mismo, o emitidas por cualquier s
 
 Cualquier imprenta habilitada corre riesgo de clausura si lo hace.
 
-##### Las facturas tipo `"E"` deben tributar ingresos brutos?
+##### Las facturas tipo `E` deben tributar ingresos brutos?
 
 Actualmente, no. Al ser calificadas como "servicios de exportación", están exentas, al menos por el momento.
 
@@ -250,9 +250,9 @@ Si, a menos que al hacer el cálculo la categoría siga siendo la misma.
 
 ##### ¿Que tipo de facturas se incluyen en el cálculo de los ingresos brutos anuales?
 
-Todas. La suma de las facturas emitidas tipo `"C"` y tipo `"E"`.
+Todas. La suma de las facturas emitidas tipo `C` y tipo `E`.
 
-##### Si mis facturas tipo `"E"` están en moneda extranjera, ¿cómo hago ese cálculo?
+##### Si mis facturas tipo `E` están en moneda extranjera, ¿cómo hago ese cálculo?
 
 La factura puede estar en moneda extranjera, pero la acreditación del pago seguramente fué en pesos argentinos. Se utiliza ese número, cualquiera haya sido el tipo de cambio ese día en particular.
 
