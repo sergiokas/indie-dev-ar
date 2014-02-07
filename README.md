@@ -180,7 +180,11 @@ Cualquier imprenta habilitada corre riesgo de clausura si lo hace.
 
 ##### Las facturas tipo `"E"` deben tributar ingresos brutos?
 
-Actualmente, no. Al ser calificadas como "servicios de exportación", están exentas, al menos por el momento. Esto no significa desentenderse de las declaraciones juradas mensuales, aunque vayan todas en cero.
+Actualmente, no. Al ser calificadas como "servicios de exportación", están exentas, al menos por el momento.
+
+Si se está inscriptio en el régimen simplificado de la CABA, esto no afecta al monto fijo mensual, que hay que abonar aunque no haya existido facturación "nacional" durante ese período.
+
+Si se está inscripto en el convenio multilateral, esto no significa desentenderse de las declaraciones juradas mensuales, aunque vayan todas en cero.
 
 ##### En el caso de transferencias desde el exterior, tengo que dejar el original de la factura en el banco?
 
@@ -190,7 +194,7 @@ La factura del talonario (tanto la original, como la copia de color) **no puede 
 
 ### Pagos del Monotributo
 
-El pago **mensual** del monotributo puede realizarse por Internet, utilizando el menú "Servicos AFIP" en el home banking. El monto a pagar se define automáticamente por la categoría y los detalles de adhesión o recategorización.
+El pago **mensual** del monotributo puede realizarse por Internet, utilizando el menú "Servicos AFIP" o similar en el home banking. El monto a pagar se define automáticamente por la categoría y los detalles de adhesión o recategorización.
 
 ### Declaraciones Juradas y Pagos de Ingresos Brutos
 
@@ -198,13 +202,17 @@ El pago **mensual** del monotributo puede realizarse por Internet, utilizando el
 
 #### Preguntas Frecuentes
 
-`//TODO`
+##### ¿Donde puedo ver si se registraron los pagos del Monotributo y/o Ingresos Brutos?
+
+Dentro de la [página de la AFIP](https://auth.afip.gov.ar/contribuyente/), ingresando con clave fiscal
 
 ## [4] Cómo seguir
 
+El objetivo de este capítulo es **mantener las inscripciones impositivas al día**.
+
 ### Recategorización del Monotributo
 
-`//TODO`
+La recategorización del monotributo es obligatoria, y sólo se realiza durante los meses de Enero, Mayo y Septiembre. Tiene como finalidad ajustar el monto del impuesto al régimen cada cuatro meses dependiendo del volumen de facturación, sin tener que informarlo constantemente.
 
 ### Declaración Jurada Informativa
 
