@@ -44,7 +44,7 @@ La mayoría del software necesario para los trámites detallados posteriormente 
 
 ## [0] Boot
 
-**Se recomienda leer toda esta guía hasta el final antes de comenzar los trámites**. 
+**Se recomienda leer toda esta guía hasta el final antes de comenzar los trámites**.
 La sección de inscripción a los régimenes tributarios puede contener información pertinente incluso si el contribuyente ya se encuentra inscripto, ya que la legislación cambia frecuentemente.
 
 ## [1] Dónde empezar
@@ -198,7 +198,7 @@ El pago **mensual** del monotributo puede realizarse por Internet, utilizando el
 
 [http://www.afip.gob.ar/monotributo/categorias.asp](http://www.afip.gob.ar/monotributo/categorias.asp)
 
-Para todas las actividades de la industria del software, el monto es el correspondiente a la columna **"Total - Locaciones y/o prestaciones de servicios"** de cada categoría. 
+Para todas las actividades de la industria del software, el monto es el correspondiente a la columna **"Total - Locaciones y/o prestaciones de servicios"** de cada categoría.
 
 En caso de también contar un empleo en relación de dependencia, que es necesario incluir en el trámite de adhesión o recategorización del monotributo, sólo debe abonarse el proporcional de la columna **"Impuesto Integrado - Locaciones y/o Prestaciones de Servicios"** para cada categoría.
 
@@ -212,44 +212,54 @@ En caso de también contar un empleo en relación de dependencia, que es necesar
 
 Dentro de la [página de la AFIP](https://auth.afip.gov.ar/contribuyente/), ingresando con clave fiscal
 
-## [4] Cómo seguir
+## [4] Cómo mantenerse al día
 
-El objetivo de este capítulo es **mantener las inscripciones impositivas al día**.
+El objetivo de este capítulo es **mantener las inscripciones impositivas al día**, más allá de realizar las declaraciones y los pagos correspondientes de forma mensual.
 
-### Recategorización del Monotributo
+### [4.1] Recategorización del Monotributo
 
 Tiene como finalidad ajustar el monto del impuesto al régimen cada cuatro meses dependiendo del volumen de facturación, sin tener que informarlo constantemente.
 
 Sólo se realiza durante los meses de Enero, Mayo y Septiembre, desde el [sitio de la AFIP](http://www.afip.gob.ar/genericos/guiaDeTramites/guia/documentos/PasoaPasorecategorizacion.pdf).
 
-Para actividades relacionadas con el software, el cálculo de la nueva categoría es simple: 
+Para actividades relacionadas con el software, el cálculo de la nueva categoría es simple:
 
-- La suma de la facturación de los últimos 12 meses corridos. 
-- Si estamos recién inscriptos y no llegamos a 12 meses de facturación, es la suma de lo que tengamos. 
+- La suma de la facturación de los últimos 12 meses corridos.
+- Para los recién inscriptos que no llegan a 12 meses de facturación, es la suma de las facturas disponibles a la fecha.
 
-El monto de la nueva categoría se abona recién al mes siguiente (Febrero, Junio y Octubre).
+La categoría se selecciona usando el resultado de esa suma, que ser inmediatamente menor a la columna de "Ingresos Brutos" en la [lista de categorías del Monotributo](http://www.afip.gob.ar/monotributo/categorias.asp)
 
-Si bien es posible categorizarse "preventivamente" si sabemos cuánto vamos a facturar, no es necesario. Cualquier contador sugerirá anotarse en la categoría mínima que admite la ley, aunque sea necesario ocuparse de recategorizarse el próximo cuatrimestre.
+Si bien es posible categorizarse "preventivamente" al saber cuánto se va a facturar, no es necesario. Cualquier contador sugerirá anotarse en la categoría mínima que admite la ley, aunque sea necesario ocuparse de recategorizarse el próximo cuatrimestre.
 
-### Declaración Jurada Informativa
+El pago de la nueva categoría se abona recién en el período siguiente (Febrero, Junio y Octubre). Los sistemas de home banking suelen detectar este cambio automáticamente.
 
-El régimen del monotributo exige que se presente cuatrimestralmente una (declaración jurada informativa)[http://www.afip.gob.ar/genericos/novedades/rg2888.asp]. No es de carácter tributario.
+### [4.2] Declaración Jurada Informativa
+
+El régimen del monotributo exige que se presente cuatrimestralmente una [declaración jurada informativa](http://www.afip.gob.ar/genericos/novedades/rg2888.asp). No es de carácter tributario.
 
 #### Preguntas Frecuentes
 
-##### Es obligatoria la recategorización del monotributo?
+##### ¿Es obligatoria la recategorización del monotributo?
 
 Si, a menos que al hacer el cálculo de los ingresos brutos anuales la categoría siga siendo la misma.
 
-##### Que tipo de facturas se incluyen en el cálculo de los ingresos anuales?
+##### ¿Que tipo de facturas se incluyen en el cálculo de los ingresos brutos anuales?
 
 Todas. La suma de las facturas emitidas tipo `"C"` y tipo `"E"`.
 
-##### Es obligatoria la declaración jurada informativa?
+##### Si mis facturas tipo `"E"` están en moneda extranjera, ¿cómo hago ese cálculo?
 
-Si. Pero al no ser de carácter tributario (no hay que pagar nada luego de presentarla), nadie suele cumplirlo en término, y no tiene mayores consecuencias.
+La factura puede estar en moneda extranjera, pero la acreditación del pago seguramente fué en pesos argentinos. Se utiliza ese número, cualquiera haya sido el tipo de cambio ese día particular.
 
-## [5] Más Preguntas Frecuentes
+##### ¿Siempre es así de simple el cálculo de la nueva categoría?
+
+El desarrollo de software independiente consume poca energía y ocupa poco espacio, y generalmente no tiene empleados. Mientras eso se mantenga constante, las otras variables no entran en juego.
+
+##### ¿Es obligatoria la declaración jurada informativa?
+
+Si, pero al no ser de carácter tributario (no hay que pagar nada luego de presentarla), es usual que nadie la presente en término, y no tiene mayores consecuencias.
+
+## [5] Otras Preguntas
 
 ##### Soy trabajador independiente, puedo obtener beneficios de la Ley del Software?
 

@@ -12,7 +12,8 @@ Actualmente se necesita desarrollar los siguientes contenidos:
 
 Al contribuir con esta guía, se requiere:
 
-* Utilizar un lenguaje informal, pero no irrespetuoso.
+* Respetar las reglas del [GitHub Flavored Markdown](http://github.github.com/github-flavored-markdown/)
+* Utilizar un lenguaje relativamente informal, pero no irrespetuoso.
 * Focalizarse en la industria nacional del software.
 * Evitar generalidades, o asuntos tributarios no correspondientes.
 * Incluir links a cada trámite o instructivo.
