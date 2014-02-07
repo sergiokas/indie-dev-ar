@@ -21,20 +21,20 @@ Esta es una **guía impositiva rápida** para:
 Esta guía rápida y simplificada pretende:
 
 * Ser leída en 15 minutos o menos.
-* Incluir casos impositivos específicos para la industria del software.
-* Simplificar aún más el entendimiento inicial del régimen (teóricamente) simplificado del monotributo.
+* Incluir casos impositivos específicos para la industria del software independiente.
+* Simplificar aún más el entendimiento inicial del régimen (teóricamente) simplificado del Monotributo.
 * Realizar la mayor cantidad de trámites y operaciones por Internet.
 * No ser una guía paso a paso.
 * No reemplazar a un contador profesional, pero sí esquivarlo la mayor cantidad de veces posible.
 
 ### Que NO es
 
-Esta no es una guía para:
+Esta no es una guía para contribuyentes:
 
-* Contribuyentes del régimen de autónomos.
-* Contribuyentes de pequeñas empresas o sociedades de hecho.
-* Contribuyentes de sociedades establecidas como cooperativas.
-* Contribuyentes en relación de dependencia encubierta.
+* Del régimen de autónomos.
+* De pequeñas empresas o sociedades de hecho.
+* De sociedades establecidas como cooperativas.
+* En relación de dependencia encubierta.
 
 La normativa legal es diferente, por eso se recomienda consultarlo con un contador profesional en cada caso particular (salvo en el último, en el que se recomienda consultar a un abogado, o acercarse al [sindicato](http://unioninformatica.com.ar)).
 
@@ -55,24 +55,25 @@ La adhesión al monotributo es de carácter nacional. El trámite puede dividirs
 1. Obtener un [número de CUIT](http://www.afip.gob.ar/genericos/guiaDeTramites/categoria_list_detail.aspx?id_padre=573). Este paso es personal, y debe hacerse en una [dependencia de la AFIP](http://www.afip.gov.ar/genericos/datos_de_dependencias/agencias/agencias_main.asp) correspondiente al domicilio del contribuyente.
 2. Obtener una [clave fiscal de AFIP](http://www.afip.gov.ar/genericos/guiaDeTramites/guia/documentos/PasoaPasoObtenerCF.pdf). Puede hacerse por Internet.
 3. Adherirse al [régimen simplificado para pequeños contribuyentes](http://www.afip.gov.ar/genericos/guiaDeTramites/guia/documentos/PasoaPasoAdhesionMonotributo.pdf)
+4. Obtener la [constancia de inscripción al monotributo](https://seti.afip.gob.ar/padron-puc-constancia-internet/ConsultaConstanciaAction.do)
 
 #### Preguntas Frecuentes
 
-##### Es necesario concurrir a dependencias de la AFIP por cada trámite?
+##### ¿Es necesario concurrir a dependencias de la AFIP por cada trámite?
 
 El primer paso es presencial, el resto se puede realizar online con la Clave Fiscal.
 
-##### Es importante la Clave Fiscal de AFIP?
+##### ¿Es importante la Clave Fiscal de AFIP?
 
 Mucho. La AFIP, más allá de lo cuestionable en la calidad de su software, ha ido digitalizando trámites progresivamente. Esto significa que salvo la obtención del CUIT, todo lo demás puede realizarse online, sin necesidad de concurrir a ninguna dependencia.
 
-##### Cuál es mi actividad?
+##### ¿Cuál es mi actividad?
 
 La adhesión al monotributo requiere registrar al menos un tipo de actividad a desarrollar, a seleccionar de una lista. Para la industria del software, la actividad más pertinente es:
 
 `620100 SERVICIOS DE CONSULTORES EN INFORMÁTICA Y SUMINISTROS DE PROGRAMAS DE INFORMÁTICA`
 
-##### Cuál es mi categoría?
+##### ¿Cuál es mi categoría?
 
 En la industria del software independiente rara vez se consumen los KW de electricidad de una industria pesada, o se ocupa demasiado espacio. Por eso, la categoría del monotributo depende **casi exclusivamente del límite de facturación anual**.
 
@@ -80,15 +81,15 @@ La lista de categorías actualizada está en: [http://www.afip.gob.ar/monotribut
 
 En caso de adherirse por primera vez al monotributo, puede empezarse por la categoría más baja, `"B"`, que es la que menos tributa. Esto irá corrigiéndose después en la recategorización.
 
-##### Además de ser trabajador independiente, tengo otro trabajo en relación de dependencia. Qué aportes corresponden al monotributo?
+##### Además de ser trabajador independiente, tengo otro trabajo en relación de dependencia. ¿Qué aportes corresponden al Monotributo?
 
-En caso de tener otro trabajo en relación de dependencia, estando seguro que el empleador realiza todos los aportes de jubilación y obra social, debe seleccionarse lo siguiente en la sección "Autónomos" del formulario de inscripción del monotributo:
+En caso de tener otro trabajo en relación de dependencia, estando seguro que el empleador realiza todos los aportes pertinentes de jubilación y obra social, debe seleccionarse lo siguiente en la sección "Autónomos" del formulario de inscripción del monotributo:
 
 `No aportante al régimen (trabajador en relación de dependencia)`
 
-Esto disminuye los pagos que deben realizarse mensualmente en el monotributo, como se detallan en los capítulos siguiente.
+Esto disminuye los pagos que deben realizarse mensualmente en el monotributo, como se detalla en los capítulos siguientes.
 
-##### Mi facturación supera o va a superar el límite de la categoría más alta. Qué puedo hacer?
+##### Mi facturación supera o va a superar el límite de la categoría más alta. ¿Qué puedo hacer?
 
 Hay que adherirse al régimen de autónomos, que es completamente distinto y probablemente necesite asistencia de un contador profesional. Esta guía no es útil en ese caso.
 
@@ -98,25 +99,29 @@ La inscripción en ingresos brutos es de **carácter provincial**, y cada una ti
 
 #### Ciudad de Buenos Aires
 
+`//TODO`
+
 #### Provincia de Buenos Aires
+
+`//TODO`
 
 #### Otras Provincias
 
-Se reciben alegremente [contribuciones para esta guía](CONTRIBUTE.md).
+Se reciben [contribuciones para esta guía](CONTRIBUTE.md).
 
 #### Preguntas Frecuentes
 
-##### El contador me dijo que no necesito anotarme en Ingresos Brutos. Es verdad?
+##### El contador me dijo que no necesito anotarme en Ingresos Brutos. ¿Es verdad?
 
 **No**. Todo contribuyente está obligado a inscribirse en Ingresos Brutos. Si no lo hace, será inscripto "de hecho" tarde o temprano. Los contadores suelen esquivar este trámite por ser el más engorroso, provocando que el contribuyente tenga que pagar los punitorios después.
 
-##### Yo facturo solamente al exterior. Tengo que anotarme en Ingresos Brutos de todas formas?
+##### Yo facturo solamente al exterior, ¿tengo que anotarme en Ingresos Brutos de todas formas?
 
 Si. Actualmente, la normativa indica que las facturas tipo "E" son para "servicios de exportación", y están exentas de Ingresos Brutos. Pero esto no significa desentenderse de las declaraciones juradas mensuales para otras jurisdicciones, aunque vayan todas en cero.
 
 ## [2] Facturación y Cobros
 
-El objetivo de este capítulo es realizar facturas por los servicios prestados, y poder cobrar los montos de las mismas. No incluye detalles generales sobre "cómo llenar una factura".
+El objetivo de este capítulo es **emitir facturas** por los servicios prestados, y poder **cobrar los montos** de las mismas. No incluye detalles generales sobre "cómo llenar una factura".
 
 ### [2.1] Impresión de Facturas
 
@@ -155,9 +160,9 @@ Las facturas electrónicas (o impresas) emitidas por cualquier sistema de gesti�
 
 Cualquier imprenta habilitada corre riesgo de clausura si lo hace.
 
-##### Las facturas tipo `"E"` tributan ingresos brutos?
+##### Las facturas tipo `"E"` deben tributar ingresos brutos?
 
-Actualmente, no. Al ser calificadas como "servicios de exportación", están exentas. Esto no significa desentenderse de las declaraciones juradas mensuales, aunque vayan todas en cero.
+Actualmente, no. Al ser calificadas como "servicios de exportación", están exentas, al menos por el momento. Esto no significa desentenderse de las declaraciones juradas mensuales, aunque vayan todas en cero.
 
 ##### En el caso de transferencias desde el exterior, tengo que dejar el original de la factura en el banco?
 
@@ -165,12 +170,24 @@ La factura del talonario (tanto la original, como la copia de color) **no puede 
 
 ## [3] Declaraciones Juradas y Pagos
 
+
+### Pagos del Monotributo
+
+`//TODO`
+
+### Declaraciones Juradas y Pagos de Ingresos Brutos
+
+`//TODO`
+
 #### Preguntas Frecuentes
+
+`//TODO`
 
 ## [4] Cómo seguir
 
 ### Recategorización del Monotributo
 
+`//TODO`
 
 ### Declaración Jurada Informativa
 
