@@ -191,7 +191,7 @@ Si se está inscriptio en el régimen simplificado de la CABA, esto no afecta al
 
 Si se está inscripto en el convenio multilateral, esto no significa desentenderse de las declaraciones juradas mensuales, aunque vayan todas en cero.
 
-##### En el caso de transferencias desde el exterior, tengo que dejar el original de la factura en el banco?
+##### En el caso de transferencias desde el exterior, ¿tengo que dejar el original de la factura en el banco?
 
 La factura del talonario (tanto la original, como la copia de color) **no puede ser retenida** por la entidad financiera que hace de intermediario en la transacción. Puede requerirse que se muestre el original, pero entregando una fotocopia.
 
@@ -266,11 +266,11 @@ Si, pero al no ser de carácter tributario (no hay que pagar nada luego de prese
 
 ## [5] Otras Preguntas
 
-##### Soy trabajador informático independiente, puedo obtener beneficios de la Ley del Software?
+##### Soy trabajador informático independiente, ¿puedo obtener beneficios de la Ley del Software?
 
 Dificilmente. La Ley de Promoción de la Industria del Software ([25.922](http://infoleg.mecon.gov.ar/infolegInternet/anexos/95000-99999/98433/norma.htm) y su prórroga [26.692](http://infoleg.mecon.gov.ar/infolegInternet/anexos/185000-189999/185701/norma.htm)) está pensada para empresas medianas y grandes, que obtienen descuentos impositivos, mayormente en cuestiones de empleo e importación.
 
-##### Tengo otra pregunta, cómo puedo contactarme?
+##### Tengo otra pregunta, ¿cómo puedo contactarme?
 
 Este documento es de [carácter público y colaborativo](LICENSE.md). Si tu pregunta no ha sido respondida aún, probablemente sea necesario ponerse en contacto con un contador profesional. Si la respuesta es pertinente a este documento, [no olvides agregarla](CONTRIBUTE.md)!
 
