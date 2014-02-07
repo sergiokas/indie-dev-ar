@@ -123,19 +123,22 @@ Se reciben [contribuciones para esta guía](CONTRIBUTE.md).
 
 ##### El contador me dijo que no necesito anotarme en Ingresos Brutos. ¿Es verdad?
 
-**No**. Todo contribuyente está obligado a inscribirse en Ingresos Brutos. Si no lo hace, será inscripto "de hecho" tarde o temprano. Los contadores suelen esquivar este trámite por ser el más engorroso, provocando que el contribuyente tenga que pagar los punitorios después.
+**No**. Todo contribuyente está obligado a inscribirse en Ingresos Brutos. Si no lo hace, será inscripto "de hecho" tarde o temprano. Los contadores suelen esquivar este trámite por ser el más engorroso y no tener consecuencias inmediatas, provocando que el contribuyente tenga que pagar los punitorios después.
 
-##### Yo facturo solamente al exterior, ¿tengo que anotarme en Ingresos Brutos de todas formas?
+##### Yo facturo solamente al exterior del país, ¿tengo que anotarme en Ingresos Brutos de todas formas?
 
 Si. Actualmente, la normativa indica que las facturas tipo "E" son para "servicios de exportación", y están exentas de Ingresos Brutos. Pero esto no significa desentenderse de las declaraciones juradas mensuales para otras jurisdicciones, aunque vayan todas en cero.
 
 ##### Desarrollo mi actividad en el Gran Buenos Aires, ¿puedo anotarme en el régimen simplificado?
 
-No. Es requisito indispensable declarar un domicilio en la Ciudad de Buenos Aires.
+No. Es requisito indispensable declarar un domicilio real en la Ciudad de Buenos Aires.
 
 ##### Hay exenciones en el pago de Ingresos Brutos?
 
-Los profesionales recibidos (que puedan acreditar la finalización de una carreara universitaria de grado) están exentos del pago de Ingresos Brutos en el régimen simplificado en la Ciudad de Buenos Aires.
+Los **profesionales recibidos** (que puedan acreditar la finalización de una carreara universitaria de grado) están exentos del pago de Ingresos Brutos si: 
+
+- Pertenencen al régimen simplificado en la Ciudad de Buenos Aires.
+- Están inscriptos en el Convenio Multilateral, en cuyo caso sólo están excentos del proporcional correspondiente a la facturación para la Ciudad de Buenos Aires.
 
 ## [2] Facturar y acreditar cobros
 
@@ -152,7 +155,7 @@ Luego de estar inscripto en el régimen del monotributo, puede uno dirigirse a u
 
 ### [2.2] Facturación a personas físicas o jurídicas dentro del territorio nacional argentino
 
-Debe utilizarse el talonario de facturas tipo `"C"`, y entregar el original (blanco) al cliente. Este tipo de factura también debe utilizarse en caso de que contemos con un intermediario que gestione los pagos de forma local, por más que el cliente final se encuentre en el exterior.
+Debe utilizarse el talonario de facturas tipo `"C"`, y entregar el original (blanco) al cliente. Este tipo de factura también debe utilizarse en caso de que se cuente con un intermediario que gestione los pagos de forma local, por más que el cliente final se encuentre en el exterior.
 
 #### "Con IVA?"
 
@@ -170,7 +173,7 @@ La factura "de papel" emitida en Argentina rara vez tiene utilidad para el clien
 
 La factura debe ser emitida por el **monto total transferido**, incluyendo las comisiones que retenga el banco o entidad destinataria. Los valores pueden expresarse en **moneda extranjera** de ser necesario.
 
-Las facturas electrónicas (o impresas por uno mismo) emitidas por cualquier sistema de gestión que se utilice internamente dentro de la relación laboral **son inválidas** para justificar una transferencia. Sólo se aceptan facturas en papel, impresas en una imprenta habilitada dentro de la República Argentina, aunque sólo se emitan con el objetivo de presentarla en la entidad bancaria/financiera correspondiente.
+Las facturas electrónicas, o impresas por uno mismo, o emitidas por cualquier sistema de gestión que se utilice internamente dentro de la relación laboral **son inválidas** para justificar una transferencia. Sólo se aceptan facturas en papel, impresas en una imprenta habilitada dentro de la República Argentina, aunque sólo se emitan con el objetivo de presentarla en la entidad bancaria/financiera correspondiente.
 
 #### Preguntas Frecuentes
 
@@ -267,7 +270,7 @@ Dificilmente. La Ley de Promoción de la Industria del Software ([25.922](http:/
 
 ##### Tengo otra pregunta, cómo puedo contactarme?
 
-Este documento es de [carácter público](LICENSE.md). Si tu pregunta no ha sido respondida aún, probablemente sea necesario contactar a un contador profesional. Si la respuesta es pertinente a este documento, [no olvides contribuir](CONTRIBUTE.md)!
+Este documento es de [carácter público y colaborativo](LICENSE.md). Si tu pregunta no ha sido respondida aún, probablemente sea necesario contactar a un contador profesional. Si la respuesta es pertinente a este documento, [no olvides agregarla](CONTRIBUTE.md)!
 
 ## Contribuir
 
