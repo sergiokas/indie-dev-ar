@@ -129,13 +129,13 @@ Se reciben [contribuciones para esta guía](CONTRIBUTE.md).
 
 Si. Actualmente, la normativa indica que las facturas tipo "E" son para "servicios de exportación", y están exentas de Ingresos Brutos. Pero esto no significa desentenderse de las declaraciones juradas mensuales para otras jurisdicciones, aunque vayan todas en cero.
 
-##### Vivo desarrollo mi actividad en el Gran Buenos Aires, ¿puedo anotarme en el régimen simplificado?
+##### Desarrollo mi actividad en el Gran Buenos Aires, ¿puedo anotarme en el régimen simplificado?
 
 No. Es requisito indispensable declarar un domicilio en la Ciudad de Buenos Aires.
 
 ##### Hay exenciones en el pago de Ingresos Brutos?
 
-Los profesionales recibidos (que puedan acreditar la finalización de una carreara universitaria de grado) están excentos del pago de Ingresos Brutos en el régimen simplificado en la Ciudad de Buenos Aires.
+Los profesionales recibidos (que puedan acreditar la finalización de una carreara universitaria de grado) están exentos del pago de Ingresos Brutos en el régimen simplificado en la Ciudad de Buenos Aires.
 
 ## [2] Facturar y acreditar cobros
 
@@ -194,7 +194,7 @@ La factura del talonario (tanto la original, como la copia de color) **no puede 
 
 ### Pagos del Monotributo
 
-El pago **mensual** del monotributo puede realizarse por Internet, utilizando el menú "Servicos AFIP" o similar en el home banking. El monto a pagar se define automáticamente por la categoría y los detalles de adhesión o recategorización, según el siguiente cuadro
+El pago **mensual** del monotributo puede realizarse por Internet, utilizando el menú "Servicos AFIP" o similar en el home banking. El monto a pagar se define automáticamente por la categoría y los detalles de adhesión o recategorización, según el siguiente cuadro:
 
 [http://www.afip.gob.ar/monotributo/categorias.asp](http://www.afip.gob.ar/monotributo/categorias.asp)
 
@@ -227,7 +227,7 @@ Para actividades relacionadas con el software, el cálculo de la nueva categorí
 - La suma de la facturación de los últimos 12 meses corridos.
 - Para los recién inscriptos que no llegan a 12 meses de facturación, es la suma de las facturas disponibles a la fecha.
 
-La categoría se selecciona usando el resultado de esa suma, que ser inmediatamente menor a la columna de "Ingresos Brutos" en la [lista de categorías del Monotributo](http://www.afip.gob.ar/monotributo/categorias.asp)
+La categoría se selecciona usando el resultado de esa suma, que debe ser inmediatamente menor a la columna de "Ingresos Brutos" en la [lista de categorías del Monotributo](http://www.afip.gob.ar/monotributo/categorias.asp). No confundir con el impuesto a los Ingresos Brutos.
 
 Si bien es posible categorizarse "preventivamente" al saber cuánto se va a facturar, no es necesario. Cualquier contador sugerirá anotarse en la categoría mínima que admite la ley, aunque sea necesario ocuparse de recategorizarse el próximo cuatrimestre.
 
@@ -241,7 +241,7 @@ El régimen del monotributo exige que se presente cuatrimestralmente una [declar
 
 ##### ¿Es obligatoria la recategorización del monotributo?
 
-Si, a menos que al hacer el cálculo de los ingresos brutos anuales la categoría siga siendo la misma.
+Si, a menos que al hacer el cálculo la categoría siga siendo la misma.
 
 ##### ¿Que tipo de facturas se incluyen en el cálculo de los ingresos brutos anuales?
 
@@ -261,7 +261,7 @@ Si, pero al no ser de carácter tributario (no hay que pagar nada luego de prese
 
 ## [5] Otras Preguntas
 
-##### Soy trabajador independiente, puedo obtener beneficios de la Ley del Software?
+##### Soy trabajador informático independiente, puedo obtener beneficios de la Ley del Software?
 
 Dificilmente. La Ley de Promoción de la Industria del Software ([25.922](http://infoleg.mecon.gov.ar/infolegInternet/anexos/95000-99999/98433/norma.htm) y su prórroga [26.692](http://infoleg.mecon.gov.ar/infolegInternet/anexos/185000-189999/185701/norma.htm)) está pensada para empresas medianas y grandes, que obtienen descuentos impositivos, mayormente en cuestiones de empleo e importación.
 
