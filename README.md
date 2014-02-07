@@ -42,12 +42,12 @@ La normativa legal es diferente, por eso se recomienda consultarlo con un contad
 
 La mayoría del software necesario para los trámites detallados posteriormente es provisto por cada ente regulador (AFIP, ARBA, AGIP, etc), es de una calidad dudosa, está lleno de incompatibilidades, y **funciona de forma completa sólo bajo Windows e Internet Explorer**.
 
-## [0] Boot
+## [0] Recomendaciones
 
 **Se recomienda leer toda esta guía hasta el final antes de comenzar los trámites**.
 La sección de inscripción a los régimenes tributarios puede contener información pertinente incluso si el contribuyente ya se encuentra inscripto, ya que la legislación cambia frecuentemente.
 
-## [1] Dónde empezar
+## [1] Cómo empezar
 
 El objetivo de este capítulo es **adherirse al régimen simplificado del Monotributo e Ingresos Brutos**. La inscripción suele ser el trámite más complicado y engorroso, y no es mala idea delegárselo a un contador. Aún así nos hará preguntas específicas de la industria, que se detallan a continuación.
 
@@ -137,7 +137,7 @@ No. Es requisito indispensable declarar un domicilio en la Ciudad de Buenos Aire
 
 Los profesionales recibidos (que puedan acreditar la finalización de una carreara universitaria de grado) están excentos del pago de Ingresos Brutos en el régimen simplificado en la Ciudad de Buenos Aires.
 
-## [2] Facturación y Cobros
+## [2] Facturar y acreditar cobros
 
 El objetivo de este capítulo es **emitir facturas** por los servicios prestados, y poder **cobrar los montos** de las mismas. No incluye detalles generales sobre "cómo llenar una factura".
 
@@ -190,7 +190,7 @@ Si se está inscripto en el convenio multilateral, esto no significa desentender
 
 La factura del talonario (tanto la original, como la copia de color) **no puede ser retenida** por la entidad financiera que hace de intermediario en la transacción. Puede requerirse que se muestre el original, pero entregando una fotocopia.
 
-## [3] Declaraciones Juradas y Pagos
+## [3] Declaraciones Juradas y Pago de Impuestos
 
 ### Pagos del Monotributo
 
@@ -200,7 +200,7 @@ El pago **mensual** del monotributo puede realizarse por Internet, utilizando el
 
 Para todas las actividades de la industria del software, el monto es el correspondiente a la columna **"Total - Locaciones y/o prestaciones de servicios"** de cada categoría.
 
-En caso de también contar un empleo en relación de dependencia, que es necesario incluir en el trámite de adhesión o recategorización del monotributo, sólo debe abonarse el proporcional de la columna **"Impuesto Integrado - Locaciones y/o Prestaciones de Servicios"** para cada categoría.
+En caso de también contar un empleo en relación de dependencia, algo que es necesario aclarar en el trámite de adhesión o recategorización del monotributo, sólo debe abonarse el proporcional de la columna **"Impuesto Integrado - Locaciones y/o Prestaciones de Servicios"** para cada categoría.
 
 ### Declaraciones Juradas y Pagos de Ingresos Brutos
 
