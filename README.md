@@ -140,6 +140,8 @@ Los **profesionales recibidos** (que puedan acreditar la finalización de una ca
 - Pertenencen al régimen simplificado en la Ciudad de Buenos Aires.
 - Están inscriptos en el Convenio Multilateral, en cuyo caso sólo están excentos del proporcional correspondiente a la facturación para la Ciudad de Buenos Aires.
 
+Estar excento del pago **no significa** que sea innecesario inscribirse. La inscripción es obligatoria en todos los casos.
+
 ## [2] Facturar y acreditar cobros
 
 El objetivo de este capítulo es **emitir facturas** por los servicios prestados, y poder **cobrar los montos** de las mismas. No incluye detalles generales sobre "cómo llenar una factura".
