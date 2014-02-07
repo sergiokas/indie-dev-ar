@@ -232,7 +232,7 @@ Para actividades relacionadas con el software, el cálculo de la nueva categorí
 - La suma de la facturación de los últimos 12 meses corridos.
 - Para los recién inscriptos que no llegan a 12 meses de facturación, es la suma de las facturas disponibles a la fecha.
 
-La categoría se selecciona usando el resultado de esa suma, que debe ser inmediatamente menor a la columna de "Ingresos Brutos" en la [lista de categorías del Monotributo](http://www.afip.gob.ar/monotributo/categorias.asp). No confundir con el impuesto a los Ingresos Brutos.
+La categoría se selecciona usando el resultado de esa suma, que debe ser inmediatamente menor al de la columna de "Ingresos Brutos" en la [lista de categorías del Monotributo](http://www.afip.gob.ar/monotributo/categorias.asp). No confundir con el impuesto del mismo nombre.
 
 Si bien es posible categorizarse "preventivamente" al saber cuánto se va a facturar, no es necesario. Cualquier contador sugerirá anotarse en la categoría mínima que admite la ley, aunque sea necesario ocuparse de recategorizarse el próximo cuatrimestre.
 
