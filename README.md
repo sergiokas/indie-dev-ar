@@ -42,9 +42,12 @@ La normativa legal es diferente, por eso se recomienda consultarlo con un contad
 
 La mayoría del software necesario para los trámites detallados posteriormente es provisto por cada ente regulador (AFIP, ARBA, AGIP, etc), es de una calidad dudosa, está lleno de incompatibilidades, y funciona **solamente bajo Windows**.
 
-## [1] Dónde empezar
+## [0] Boot
 
-Se recomienda leer toda esta guía hasta el final antes de comenzar los trámites.
+**Se recomienda leer toda esta guía hasta el final antes de comenzar los trámites**. 
+La sección de inscripción a los régimenes tributarios puede contener información pertinente incluso si el contribuyente ya se encuentra inscripto, ya que la legislación cambia frecuentemente.
+
+## [1] Dónde empezar
 
 El objetivo de este capítulo es **adherirse al régimen simplificado del Monotributo e Ingresos Brutos**. La inscripción suele ser el trámite más complicado y engorroso, y no es mala idea delegárselo a un contador. Aún así nos hará preguntas específicas de la industria, que se detallan a continuación.
 
