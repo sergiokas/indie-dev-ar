@@ -254,7 +254,7 @@ Todas. La suma de las facturas emitidas tipo `"C"` y tipo `"E"`.
 
 ##### Si mis facturas tipo `"E"` están en moneda extranjera, ¿cómo hago ese cálculo?
 
-La factura puede estar en moneda extranjera, pero la acreditación del pago seguramente fué en pesos argentinos. Se utiliza ese número, cualquiera haya sido el tipo de cambio ese día particular.
+La factura puede estar en moneda extranjera, pero la acreditación del pago seguramente fué en pesos argentinos. Se utiliza ese número, cualquiera haya sido el tipo de cambio ese día en particular.
 
 ##### ¿Siempre es así de simple el cálculo de la nueva categoría?
 
