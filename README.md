@@ -272,7 +272,7 @@ Dificilmente. La Ley de Promoción de la Industria del Software ([25.922](http:/
 
 ##### Tengo otra pregunta, cómo puedo contactarme?
 
-Este documento es de [carácter público y colaborativo](LICENSE.md). Si tu pregunta no ha sido respondida aún, probablemente sea necesario contactar a un contador profesional. Si la respuesta es pertinente a este documento, [no olvides agregarla](CONTRIBUTE.md)!
+Este documento es de [carácter público y colaborativo](LICENSE.md). Si tu pregunta no ha sido respondida aún, probablemente sea necesario ponerse en contacto con un contador profesional. Si la respuesta es pertinente a este documento, [no olvides agregarla](CONTRIBUTE.md)!
 
 ## Contribuir
 
