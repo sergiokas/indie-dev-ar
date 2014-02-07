@@ -22,7 +22,7 @@ Esta guía rápida y simplificada pretende:
 
 * Ser leída en 15 minutos o menos.
 * Incluir casos impositivos específicos para la industria del software independiente.
-* Simplificar aún más el entendimiento inicial del régimen (teóricamente) simplificado del Monotributo.
+* Simplificar el entendimiento inicial del régimen (teóricamente) ya simplificado del Monotributo.
 * Realizar la mayor cantidad de trámites y operaciones por Internet.
 * No ser una guía paso a paso.
 * No reemplazar a un contador profesional, pero sí esquivarlo la mayor cantidad de veces posible.
@@ -50,7 +50,7 @@ El objetivo de este capítulo es **adherirse al régimen simplificado del Monotr
 
 ### [1.1] Adhesión al Monotributo
 
-La adhesión al monotributo es de carácter nacional. El trámite puede dividirse en los siguientes pasos, todos obligatorios:
+La adhesión al monotributo es de carácter nacional, y su ente regulador es la **AFIP**. El trámite puede dividirse en los siguientes pasos, todos obligatorios:
 
 1. Obtener un [número de CUIT](http://www.afip.gob.ar/genericos/guiaDeTramites/categoria_list_detail.aspx?id_padre=573). Este paso es personal, y debe hacerse en una [dependencia de la AFIP](http://www.afip.gov.ar/genericos/datos_de_dependencias/agencias/agencias_main.asp) correspondiente al domicilio del contribuyente.
 2. Obtener una [clave fiscal de AFIP](http://www.afip.gov.ar/genericos/guiaDeTramites/guia/documentos/PasoaPasoObtenerCF.pdf). Puede hacerse por Internet.
@@ -95,13 +95,20 @@ Hay que adherirse al régimen de autónomos, que es completamente distinto y pro
 
 ### [1.2] Inscripción en Ingresos Brutos (IIBB)
 
-La inscripción en ingresos brutos es de **carácter provincial**, y cada una tiene sus normas tributarias.
+La inscripción en Ingresos Brutos es de **carácter provincial/regional**, y cada una tiene sus normas tributarias.
 
-#### Ciudad de Buenos Aires
+#### Ciudad Autónoma de Buenos Aires (AGIP)
 
-`//TODO`
+Para residentes de la CABA existe el [régimen simplificado](http://www.agip.gov.ar/web/ventanillas/regimen_simplificado.htm), que tributa un monto fijo mensual, calculado por la categoría del Monotributo, y evita la necesidad de generar presentar declaraciones juradas todos los meses.
 
-#### Provincia de Buenos Aires
+#### Provincia de Buenos Aires, incluyendo el GBA (ARBA)
+
+Ingresos Brutos en Provincia de Buenos Aires es seguramente la parte más complicada de esta guía. Actualmente existen dos formas:
+
+* Mediante la inscripción al [convenio multilateral](http://www.ca.gov.ar/comarb/index.html).
+* Mediante la inscripción en [ARBA]()
+
+El convenio multilateral es el método clásico de declarar ingresos brutos, pensado para contribuyentes que emitan facturas a clientes en varias provincias. Su aplicación típica es para profesionales que facturen tanto en CABA como en GBA.
 
 `//TODO`
 
@@ -118,6 +125,14 @@ Se reciben [contribuciones para esta guía](CONTRIBUTE.md).
 ##### Yo facturo solamente al exterior, ¿tengo que anotarme en Ingresos Brutos de todas formas?
 
 Si. Actualmente, la normativa indica que las facturas tipo "E" son para "servicios de exportación", y están exentas de Ingresos Brutos. Pero esto no significa desentenderse de las declaraciones juradas mensuales para otras jurisdicciones, aunque vayan todas en cero.
+
+##### Vivo desarrollo mi actividad en el Gran Buenos Aires, ¿puedo anotarme en el régimen simplificado?
+
+No. Es requisito indispensable declarar un domicilio en la Ciudad de Buenos Aires.
+
+##### Hay exenciones en el pago de Ingresos Brutos?
+
+Los profesionales recibidos (que puedan acreditar la finalización de una carreara universitaria de grado) están excentos del pago de Ingresos Brutos en el régimen simplificado en la Ciudad de Buenos Aires.
 
 ## [2] Facturación y Cobros
 
@@ -170,10 +185,9 @@ La factura del talonario (tanto la original, como la copia de color) **no puede 
 
 ## [3] Declaraciones Juradas y Pagos
 
-
 ### Pagos del Monotributo
 
-`//TODO`
+El pago **mensual** del monotributo puede realizarse por Internet, utilizando el menú "Servicos AFIP" en el home banking. El monto a pagar se define automáticamente por la categoría y los detalles de adhesión o recategorización.
 
 ### Declaraciones Juradas y Pagos de Ingresos Brutos
 
@@ -197,7 +211,7 @@ El régimen del monotributo exige que se presente cuatrimestralmente una (declar
 
 ##### Es obligatoria la recategorización del monotributo?
 
-Si.
+Si, a menos que al hacer el cálculo de los ingresos brutos anuales la categoría siga siendo la misma.
 
 ##### Que tipo de facturas se incluyen en el cálculo de los ingresos anuales?
 
