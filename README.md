@@ -14,7 +14,8 @@ Esta es una **guía impositiva rápida** para:
 * que desarrollan su labor en relación más o menos directa con el cliente final,
 * cuya relación laboral es generalmente **contractual**,
 * que reciben pagos **localmente o desde el exterior**,
-* y que emiten facturas a personas físicas o jurídicas.
+* que emiten facturas a personas físicas o jurídicas,
+* y que también pueden tener o no un empleo en relación de dependencia, pero aún así desarrollan **actividades independientes de forma paralela**.
 
 ### Resumen
 
@@ -259,6 +260,10 @@ La factura puede estar en moneda extranjera, pero la acreditación del pago segu
 ##### ¿Siempre es así de simple el cálculo de la nueva categoría?
 
 El desarrollo de software independiente consume poca energía y ocupa poco espacio, y generalmente no tiene empleados. Mientras eso se mantenga constante, las otras variables no entran en juego.
+
+##### Si conseguí un trabajo en relación de dependencia, ¿debo especificarlo en el momento de la recategorización?
+
+Si. De hecho, es el único momento en el que puede especificarse. El formulario es el mismo que al adherirse al monotributo. Los cargos sólo cambian al mes siguiente de la categorización, sin importar el momento exacto de ingreso a la nueva relación laboral.
 
 ##### ¿Es obligatoria la declaración jurada informativa?
 
