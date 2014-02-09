@@ -124,7 +124,7 @@ Se reciben [contribuciones para esta guía](CONTRIBUTE.md).
 
 ##### El contador me dijo que no necesito anotarme en Ingresos Brutos. ¿Es verdad?
 
-**No**. Todo contribuyente está obligado a inscribirse en Ingresos Brutos. Si no lo hace, será inscripto "de hecho" tarde o temprano. Los contadores suelen esquivar este trámite por ser el más engorroso y no tener consecuencias inmediatas, provocando que el contribuyente tenga que pagar los punitorios después.
+**No**. Todo contribuyente está obligado a inscribirse en Ingresos Brutos. Si no lo hace, será inscripto *de hecho* tarde o temprano. Los contadores suelen esquivar este trámite por ser el más engorroso y no tener consecuencias inmediatas, provocando que el contribuyente tenga que pagar los punitorios después.
 
 ##### Yo facturo solamente al exterior del país, ¿tengo que anotarme en Ingresos Brutos de todas formas?
 
@@ -164,7 +164,7 @@ Debe utilizarse el talonario de facturas tipo `C`, y entregar el original (blanc
 
 Uno de los aspectos más controversiales del monotributo es que no discrimina Impuesto al Valor Agregado (IVA) en el monto final de la factura. Resulta paradójico en el caso de la industria del software, donde virtualmente todo lo que se hace es generar valor agregado.
 
-Si el cliente, que generalmente no es monotributista, recibe una factura que "discrimina IVA", puede descontar esa parte del impuesto del total que debe pagar en su declaración jurada mensual. Ese **no es el caso** de una factura emitida bajo el régimen simplificado del monotributo. Esto suele generar fricción en las negociaciones cuando los montos facturados comienzan a superar cierta barrera.
+Si el cliente, que generalmente no es monotributista, recibe una factura que *discrimina IVA*, puede descontar esa parte del impuesto del total que debe pagar en su declaración jurada mensual. Ese **no es el caso** de una factura emitida bajo el régimen simplificado del monotributo. Esto suele generar fricción en las negociaciones cuando los montos facturados comienzan a superar cierta barrera.
 
 La alternativa para este problema es pasarse al régimen de autónomos, donde esta guía carece de utilidad.
 
@@ -172,11 +172,11 @@ La alternativa para este problema es pasarse al régimen de autónomos, donde es
 
 Debe utilizarse el talonario de facturas tipo `E`.
 
-La factura "de papel" emitida en Argentina rara vez tiene utilidad para el cliente que reside en el exterior. Sin embargo, si los cobros se realizan a través de transferencia bancaria, cheque de PayPal o similar, la entidad destinataria está obligada por ley a pedir una copia de la factura en el caso de prestación de servicios, y en algunos casos, una copia del contrato correspondiente.
+La factura *de papel* emitida en Argentina rara vez tiene utilidad para el cliente que reside en el exterior. Sin embargo, si los cobros se realizan a través de transferencia bancaria, cheque de PayPal o similar, la entidad destinataria está obligada por ley a pedir una copia de la factura en el caso de prestación de servicios, y en algunos casos, una copia del contrato correspondiente.
 
 La factura debe ser emitida por el **monto total transferido**, incluyendo las comisiones que retenga el banco o entidad destinataria. Los valores pueden expresarse en **moneda extranjera** de ser necesario.
 
-Las facturas electrónicas, o impresas por uno mismo, o emitidas por cualquier sistema de gestión que se utilice internamente dentro de la relación laboral **son inválidas** para justificar una transferencia. Sólo se aceptan facturas en papel, impresas en una imprenta habilitada dentro de la República Argentina, aunque sólo se emitan con el objetivo de presentarla en la entidad bancaria/financiera correspondiente.
+Las facturas electrónicas, o impresas por uno mismo, o emitidas por cualquier sistema de gestión que se utilice internamente dentro de la relación laboral **son inválidas** para justificar una transferencia. Sólo se aceptan facturas de papel, impresas en una imprenta habilitada dentro de la República Argentina, aunque sólo se emitan con el objetivo de presentarla en la entidad bancaria/financiera correspondiente.
 
 #### Preguntas Frecuentes
 
@@ -186,7 +186,7 @@ Cualquier imprenta habilitada corre riesgo de clausura si lo hace.
 
 ##### Las facturas tipo `E` deben tributar ingresos brutos?
 
-Actualmente, no. Al ser calificadas como "servicios de exportación", están exentas, al menos por el momento.
+Actualmente, no. Al ser calificadas como *servicios de exportación*, están exentas, al menos por el momento.
 
 Si se está inscripto en el régimen simplificado de la CABA, esto no afecta al monto fijo mensual, que hay que abonar aunque no haya existido facturación "nacional" durante ese período.
 
@@ -235,7 +235,7 @@ Para actividades relacionadas con el software, el cálculo de la nueva categorí
 
 La categoría se selecciona usando el resultado de esa suma, que debe ser inmediatamente menor al de la columna de "Ingresos Brutos" en la [lista de categorías del Monotributo](http://www.afip.gob.ar/monotributo/categorias.asp). No confundir con el impuesto del mismo nombre.
 
-Si bien es posible categorizarse "preventivamente" al saber cuánto se va a facturar, no es necesario. Cualquier contador sugerirá anotarse en la categoría mínima que admite la ley, aunque sea necesario ocuparse de recategorizarse el próximo cuatrimestre.
+Si bien es posible categorizarse *preventivamente* al saber cuánto se va a facturar, no es necesario. Cualquier contador sugerirá anotarse en la categoría mínima que admite la ley, aunque sea necesario ocuparse de recategorizarse el próximo cuatrimestre.
 
 El pago de la nueva categoría se abona recién en el período siguiente (Febrero, Junio y Octubre). Los sistemas de home banking suelen detectar este cambio automáticamente.
 
