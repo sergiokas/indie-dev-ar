@@ -128,7 +128,7 @@ Se reciben [contribuciones para esta guía](CONTRIBUTE.md).
 
 ##### Yo facturo solamente al exterior del país, ¿tengo que anotarme en Ingresos Brutos de todas formas?
 
-Si. Actualmente, la normativa indica que las facturas tipo `E` son para "servicios de exportación", y están exentas de Ingresos Brutos. Pero esto no significa desentenderse de las declaraciones juradas mensuales para otras jurisdicciones, aunque vayan todas en cero.
+Si. Actualmente, la normativa indica que las facturas tipo `E` son para *servicios de exportación*, y están exentas de Ingresos Brutos. Pero esto no significa desentenderse de las declaraciones juradas mensuales para otras jurisdicciones, aunque vayan todas en cero.
 
 ##### Desarrollo mi actividad en el Gran Buenos Aires, ¿puedo anotarme en el régimen simplificado?
 
